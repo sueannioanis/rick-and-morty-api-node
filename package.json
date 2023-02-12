@@ -17,7 +17,7 @@
     "axios": "^0.19.2"
   },
   "devDependencies": {
-    "ava": "^3.4.0",
+    "ava": "^5.2.0",
     "coveralls": "^3.0.9",
     "eslint": "^5.16.0",
     "nodemon": "^1.19.4",
